@@ -1,0 +1,23 @@
+{
+  "name": "Currency-Text-Box",
+  "version": "1.0.0",
+  "description": "Currency text box with auto text and number formating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelkbil/currency-textbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelkbil/currency-textbox/issues"
+  },
+  "homepage": "https://github.com/abelkbil/currency-textbox#readme",
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
